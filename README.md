@@ -27,4 +27,17 @@ Resources -
   * Inverted Pendulum
      *  http://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=SystemModeling
 
+**Problem 2 b - Sub part only normal PID control of inverted Pendulum**
 
+Basic Version of the above problem and only normal PID Control
+
+**Problem 3  - Tune a proportional controller using root locus for a generalized second order system to have a specific settling time and maximum overshoot for step reference input**
+Resources -
+
+   * Understanding Root Locus
+     * https://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=ControlRootLocus
+
+
+**Problem 4  - Self Tuning based Fuzzy logic-based control of speed and position of DC shunt motor.**
+
+Video lecture on fuzzy logic is also shared with you earlier
